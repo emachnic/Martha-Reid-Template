@@ -1,3 +1,24 @@
 body #content #main_content {
   width: 100%;
 }
+body #content #main_content h1 {
+  color: #110b39;
+  font-size: 2.2em;
+}
+body #content #main_content #home_dates {
+  font-size: 1.6em;
+  padding-left: 1.2em;
+}
+body #content #main_content #home_dates li {
+  padding: 1em 0;
+}
+body #content #main_content #home_dates li ul li {
+  text-indent: 2em;
+}
+body #content #main_content #stained_glass {
+  float: right;
+}
+body #content #main_content #stained_glass img {
+  height: 101.3em;
+  width: 16em;
+}
