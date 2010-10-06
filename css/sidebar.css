@@ -1,0 +1,20 @@
+body #content #sidebar {
+  float: left;
+  margin-right: 1em;
+  min-height: 50em;
+  width: 16em;
+}
+  body #content #sidebar ul {
+    padding: 1em 0 3em 1em;
+  }
+    body #content #sidebar ul li {
+      padding: .5em 0;
+    }
+  body #content #sidebar a {
+    color: #000;
+    font-size: 1.6em;
+    font-weight: bold;
+  }
+    body #content #sidebar a:hover, body #content #sidebar .active a {
+      color: #333;
+    }

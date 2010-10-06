@@ -1,0 +1,7 @@
+body footer {
+  border-top: .2em solid #110b39;
+  width: 100%;
+}
+  body footer #copy {
+    padding: 1em;
+  }

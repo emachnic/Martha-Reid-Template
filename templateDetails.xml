@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.5/template-install.dtd">
+<install version="1.5" type="template">
+  <name>martha_reid</name>
+  <creationDate>2010-09-21</creationDate>
+  <author>Evan Machnic</author>
+  <authorEmail>emachnic@broadmac.net</authorEmail>
+  <authorUrl>http://broadmac.net</authorUrl>
+  <copyright>Martha Reid Chapter 19 UDC 2010</copyright>
+  <version>1.0</version>
+  <description>Martha Reid</description>
+  <files>
+    <filename>index.php</filename>
+    <filename>templateDetails.xml</filename>
+    <filename>css/style.css</filename>
+    <filename>css/reset.css</filename>
+    <filename>css/defaults.css</filename>
+    <filename>css/header.css</filename>
+    <filename>css/sidebar.css</filename>
+    <filename>css/main_content.css</filename>
+    <filename>css/footer.css</filename>
+    <filename>images/udc_ribbon.jpg</filename>
+    <filename>images/top_martha_script.png</filename>
+    <filename>images/udc_insignia.png</filename>
+    <filename>images/cotton_web.jpg</filename>
+    <filename>images/vignette_flag.png</filename>
+    <filename>images/content_bg.png</filename>
+  </files>
+  <positions>
+    <position>breadcrumb</position>
+    <position>left</position>
+    <position>right</position>
+    <position>top</position>
+    <position>user1</position>
+    <position>user2</position>
+    <position>user3</position>
+    <position>user4</position>
+    <position>footer</position>
+  </positions>
+</install>

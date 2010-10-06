@@ -1,0 +1,17 @@
+header, footer, article, section, figure, figcaption, nav {
+  display: block;
+}
+body {
+  border: .2em solid #110b39;
+  font-family: Times, serif;
+  font-size: 62.5%;
+  margin: 0 auto;
+  width: 96em;
+}
+  body #content {
+    background: url('../images/content_bg.png') repeat-y top left;
+    min-height: 30em;
+  }
+.clear {
+  clear: both;
+}
